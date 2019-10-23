@@ -1,6 +1,6 @@
 # SyntheticIllusions: Pix2Pix and cycleGAN
 
-##About
+## About
 
 For this project a neural network was trained on a synthetic dataset rendered using 3D game engine software (Unity Technologies, n.d.; Rodriguez, 2019). Neural networks require a large amount of high-quality labelled data. Without the infrastructure and the data collection methods of large technology companies it can be difficult to source a large enough dataset to train a neural network effectively. Therefore, synthetic datasets are a powerful tool to disrupt this disadvantage. Training using a synthetic data set allows for endless possibilities and the ability to selectively refine the final creative output. My inspiration was to create optical art such as below.
 
