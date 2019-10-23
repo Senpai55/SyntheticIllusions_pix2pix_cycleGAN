@@ -1,5 +1,7 @@
 # SyntheticIllusions: Pix2Pix and cycleGAN
 
+##About
+
 For this project a neural network was trained on a synthetic dataset rendered using 3D game engine software (Unity Technologies, n.d.; Rodriguez, 2019). Neural networks require a large amount of high-quality labelled data. Without the infrastructure and the data collection methods of large technology companies it can be difficult to source a large enough dataset to train a neural network effectively. Therefore, synthetic datasets are a powerful tool to disrupt this disadvantage. Training using a synthetic data set allows for endless possibilities and the ability to selectively refine the final creative output. My inspiration was to create optical art such as below.
 
 ![GitHub Logo](/images/OpArt.png)
@@ -12,15 +14,19 @@ To achieve these outputs and apply optical art patterns to a variety of input im
 
 A depth map is a grayscale image that contains information about the distance between the surface of objects from a given perspective. It is hoped that the network will be able to take input depth maps of any image or model and output an image with the pattern applied to create the optical effect above. 
 
-Training Pairs
+##Training Pairs:
 
 ![GitHub Logo](/images/depthpairs.gif)
 
-Outputs
+##Outputs:
 
 ![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif)
 
-References:
+##Link to Full Technical Process:
+
+[I'm an inline-style link with title](https://senpai55.github.io/SyntheticIllusions_pix2pix_cycleGAN/ "Technical Process")
+
+##References:
 
 Chan, L. (2012). Hand Op Art. Retrieved from https://www.deviantart.com/x-luna-chan-x/art/Hand-Op-Art-305612272.
 
