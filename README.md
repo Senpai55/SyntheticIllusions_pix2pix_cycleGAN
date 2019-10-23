@@ -18,9 +18,13 @@ A depth map is a grayscale image that contains information about the distance be
 
 ![GitHub Logo](/images/depthpairs.gif)
 
+## Unseen Depth Maps:
+
+![GitHub Logo](/images/UnseenDepthMaps.png)
+
 ## Outputs:
 
-![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif) ![GitHub Logo](/images/UnseenDepthMaps.png)![GitHub Logo](/images/bw_ext.gif)
+![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif) ![GitHub Logo](/images/bw_ext.gif)
 
 ## Link to Full Technical Process:
 
