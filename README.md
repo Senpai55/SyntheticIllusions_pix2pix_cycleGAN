@@ -1,4 +1,4 @@
-# SyntheticIllusions: Pix2Pix and cycleGAN
+# Synthetic Illusions: Pix2Pix and cycleGAN
 
 ## About
 
@@ -20,7 +20,7 @@ A depth map is a grayscale image that contains information about the distance be
 
 ## Outputs:
 
-![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif) ![GitHub Logo](/images/bw_ext.gif)
+![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif) ![GitHub Logo](/images/UnseenDepthMaps.png)![GitHub Logo](/images/bw_ext.gif)
 
 ## Link to Full Technical Process:
 
