@@ -14,23 +14,23 @@ To achieve these outputs and apply optical art patterns to a variety of input im
 
 A depth map is a grayscale image that contains information about the distance between the surface of objects from a given perspective. It is hoped that the network will be able to take input depth maps of any image or model and output an image with the pattern applied to create the optical effect above. 
 
-##Training Pairs:
+## Training Pairs:
 
 ![GitHub Logo](/images/depthpairs.gif)
 
-##Outputs:
+## Outputs:
 
 ![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif)
 
-##Link to Full Technical Process:
+## Link to Full Technical Process:
 
-[I'm an inline-style link with title](https://senpai55.github.io/SyntheticIllusions_pix2pix_cycleGAN/ "Technical Process")
+[Technical Process](https://senpai55.github.io/SyntheticIllusions_pix2pix_cycleGAN/ "Technical Process")
 
-##References:
+## References:
 
 Chan, L. (2012). Hand Op Art. Retrieved from https://www.deviantart.com/x-luna-chan-x/art/Hand-Op-Art-305612272.
 
-Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2016). Image-to-image translation with conditional adversarial networks. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1125-1134).
+Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2016). *Image-to-image translation with conditional adversarial networks*. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1125-1134).
 
 Unity Technologies. (n.d.). Image Synthesis for Machine Learning. Retrieved from https://bitbucket.org/Unity-Technologies/ml-imagesynthesis/src.
 
