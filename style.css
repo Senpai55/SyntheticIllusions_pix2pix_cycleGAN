@@ -14,7 +14,7 @@ p{
 a{
 	font-family: 'Raleway', sans-serif;
 	text-decoration: none;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .wrapper{
@@ -98,23 +98,6 @@ height: 450px;
 	float:left;
 }
 
-#hybrid{
-	height:260px;
-	margin-top: 50px;
-	margin-left: 50px;
-}
-
-.birdwrapper{
-	margin-top:50px;
-	margin-bottom:50px;
-	width:25%;
-	float:left;
-}
-
-.birdwrapper h3{
-		text-align: center;
-}
-
 .g-50{
 	width:85%;
 	margin-left:7.5%;
@@ -122,24 +105,6 @@ height: 450px;
 	margin-bottom: 10px;
 	margin-top: 10px;
 	/*position: float;*/
-}
-
-
-.spect {
-  opacity: 1;
-  width: 49%;
-  height: auto;
-  transition: .3s ease;
-  backface-visibility: hidden;
-}
-
-.spect:hover {
-  opacity: 0.7;
-}
-
-.birdimg{
-	width:49%;
-/*	padding:1.25%;*/
 }
 
 .subheading{
