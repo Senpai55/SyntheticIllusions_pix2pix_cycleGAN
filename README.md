@@ -1,4 +1,4 @@
-# Synthetic Illusions: Pix2Pix and cycleGAN
+# Synthetic  Illusions: Pix2Pix and cycleGAN
 
 ## About
 
