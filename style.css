@@ -6,13 +6,13 @@ padding:0;
 
 p{
 	text-align: justify;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	 line-height: 1.6;
 }
 
 a{
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 }
 
@@ -44,7 +44,7 @@ min-height: 100vh;
 #author{
 	color:grey;
 	font-size: 17px;
-	font-family: 'Nunito';
+	font-family: 'Raleway';
 	text-align: center;
 }
 
@@ -107,7 +107,7 @@ height: 450px;
 }
 
 .subheading{
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 17px;
 }
 
