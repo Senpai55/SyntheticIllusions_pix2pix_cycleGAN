@@ -6,13 +6,13 @@ padding:0;
 
 p{
 	text-align: justify;
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 16px;
 	 line-height: 1.6;
 }
 
 a{
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
 }
 
@@ -44,7 +44,7 @@ min-height: 100vh;
 #author{
 	color:grey;
 	font-size: 17px;
-	font-family: 'Dosis';
+	font-family: 'Ubuntu';
 	text-align: center;
 }
 
@@ -106,7 +106,7 @@ height: 450px;
 }
 
 .subheading{
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 17px;
 }
 
@@ -116,22 +116,22 @@ height: 450px;
 }
 
 h1{
-font-family: 'Dosis', sans-serif;
+font-family: 'Ubuntu', sans-serif;
 font-weight: bolder; 
 text-align: center;
 
 }
 
 h2{
-font-family: 'Dosis', sans-serif;  
+font-family: 'Ubuntu', sans-serif;  
 }
 
 h3{
-	font-family: 'Dosis', sans-serif; 
+	font-family: 'Ubuntu', sans-serif; 
 	}
 
 h5{
-	font-family: 'Dosis', sans-serif; 
+	font-family: 'Ubuntu', sans-serif; 
 	font-style: italic; 
 	text-align: center;
 	}
