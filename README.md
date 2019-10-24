@@ -26,9 +26,14 @@ A depth map is a grayscale image that contains information about the distance be
 
 ![GitHub Logo](/images/head.gif) ![GitHub Logo](/images/hand.gif) ![GitHub Logo](/images/bw_ext.gif)
 
-## Link to Full Technical Process:
+## Links:
 
 [Technical Process](https://senpai55.github.io/SyntheticIllusions_pix2pix_cycleGAN/ "Technical Process")
+
+[Image Synthesis Tool](https://bitbucket.org/Unity-Technologies/ml-imagesynthesis/src/master/ "Unity Image Synthesis for Machine Learning")
+
+[Tutorial] (https://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-pytorch-fastai.html/ "Tutorial to Setup Unity Project")
+
 
 ## References:
 
