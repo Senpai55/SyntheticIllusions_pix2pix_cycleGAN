@@ -107,7 +107,7 @@ height: 450px;
 }
 
 .subheading{
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Dosis', sans-serif;
 	font-size: 17px;
 }
 
@@ -124,16 +124,15 @@ text-align: center;
 }
 
 h2{
-font-family: 'Quicksand', sans-serif; 
-font-style: italic; 
+font-family: 'Dosis', sans-serif;  
 }
 
 h3{
-	font-family: 'Quicksand', sans-serif; 
+	font-family: 'Dosis', sans-serif; 
 	}
 
 h5{
-	font-family: 'Quicksand', sans-serif; 
+	font-family: 'Dosis', sans-serif; 
 	font-style: italic; 
 	text-align: center;
 	}
